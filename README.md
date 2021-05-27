@@ -3,3 +3,13 @@ A Client-Server program that creates a socket on its end of the communication an
 
 <br>
 <img src="Socket.gif">
+
+
+<br>
+
+## How To Use in Codeblocks
+
+Goto Settings > Compiler > Linker Settings > add ws2_32 > done.
+
+<img src="Codeblocks.gif">
+
